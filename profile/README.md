@@ -16,4 +16,4 @@
 - [THExuri](https://github.com/THExuri) - The Succubus of the organization, THExuri
 - [lliioollcn](https://github.com/lliioollcn) - The Gentle Cat Girl of the organization, lliioollcn
 - [qiuxi903](https://github.com/qiuxi903) - The Annon of the organization, qiuxi903
-- [windy664](https://github.com/windy664) - The Lazy Person of the organization, qiuxi903
+- [windy664](https://github.com/windy664) - The Lazy Person of the organization, windy664
