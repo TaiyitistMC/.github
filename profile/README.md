@@ -15,6 +15,6 @@
 ## ☪️  Mascot
 - [THExuri](https://github.com/THExuri) - The Succubus of the organization, THExuri
 - [lliioollcn](https://github.com/lliioollcn) - The Horny Cat Femboy of the organization, lliioollcn
-- [qiuxi903](https://github.com/qiuxi903) - The Annon of the organization, qiuxi903
+- [qiuxi903](https://github.com/qiuxi903) - The ANON of the organization, qiuxi903
 - [windy664](https://github.com/windy664) - The Tmall Genie of the organization, windy664
 - [Akr-on](https://github.com/Akr-on) - The Beast Eared Fox of the organization, Akr-on
