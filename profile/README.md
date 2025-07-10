@@ -14,5 +14,5 @@
 
 ## ☪️  Mascot
 - [THExuri](https://github.com/THExuri) - The Succubus of the organization, THExuri
-- [lliioollcn]((https://github.com/lliioollcn)) - The Gentle Cat Girl of the organization, lliioollcn
+- [lliioollcn](https://github.com/lliioollcn) - The Gentle Cat Girl of the organization, lliioollcn
 
