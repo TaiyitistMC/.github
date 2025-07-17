@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">TaiyitistMC is a Minecraft software organization that focuses on developing hybrid Minecraft server software and other tools.</p>
+<p align="center">TaiyitistMC is a Minecraft software organization that focuses on developing Minecraft, including Minecraft Server, Minecraft Mods, Minecraft Plugins, and other tools.</p>
 
 
 ## :star: Main projects
